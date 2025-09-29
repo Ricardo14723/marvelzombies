@@ -5,7 +5,7 @@
     <div class="series-header">
         <div class="series-icon">⬇</div>
         <div class="series-info">
-            <h1>Enlaces de Descarga - El instituto</h1>
+            <h1>Enlaces de Descarga - Marvel Zombies</h1>
             <p>Audio Latino e Ingles</p>
         </div>
     </div>
